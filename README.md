@@ -9,13 +9,14 @@
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Findings](#findings)
 
-
-
-
-
 ### Project Overview
 
 This data analysis project aims to provide insights into the sales performance of a Car selling company over the year 2022 to 2023.By analysis various aspects of the sales data, I want to identify monthly trends, make data-driven recommendations and gain deeper understanding of the company's performance. 
+
+
+![Dashboard](https://github.com/Josiah-TechBro/Car-Sales-Analysis/assets/143694858/71fd0439-6f98-4d82-99ae-b0c09d3880e5)
+
+
 
 ### Data Sources
 
