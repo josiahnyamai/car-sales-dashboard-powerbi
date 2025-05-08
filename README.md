@@ -1,56 +1,55 @@
-# Car Sales Analysis
+# 🚗 Car Sales Dashboard (Power BI)
 
-## Table Of Content
-
-- [Project Overview](#project-overview)
-- [Data Sources](#data-sources)
-- [Tools Used](#tools-used)
-- [Data Cleaning](#data-cleaning)
-- [Exploratory Data Analysis](#exploratory-data-analysis)
-- [Findings](#findings)
-
-### Project Overview
-
-This data analysis project aims to provide insights into the sales performance of a Car selling company over the year 2022 to 2023.By analysis various aspects of the sales data, I want to identify monthly trends, make data-driven recommendations and gain deeper understanding of the company's performance. 
-
+This Power BI project provides a comprehensive and interactive dashboard for analyzing car sales performance. It enables business users and decision-makers to gain insights into key metrics such as revenue trends, vehicle model performance, sales by region, and customer segmentation.
 
 ![Dashboard](https://github.com/Josiah-TechBro/Car-Sales-Analysis/assets/143694858/71fd0439-6f98-4d82-99ae-b0c09d3880e5)
 
+## 📊 Features
 
+- Dynamic visualizations of car sales data
+- Revenue analysis over time
+- Sales breakdown by:
+  - Vehicle brand and model
+  - Region and dealership
+  - Salesperson performance
+- KPIs including total revenue, units sold, and average sale price
+- Filters and slicers for interactive data exploration
 
-### Data Sources
+## 🛠 Tools & Technologies
 
-The primary dataset used for this analysis is the 'Car sales - Power BI dataset.xlsx' file, containing detailed information about each sale made by the company. 
+- **Power BI Desktop**
+- Data transformation using Power Query
+- DAX for calculated metrics and measures
 
-### Tools Used
+## 📂 Project Files
 
-- Excel - Data Cleaning [Download Here](https://microsoft.com)
-- Power BI - Creating dashboard/Reports
+- `Car Sales Power BI project.pbix`: The main Power BI dashboard file containing all visualizations and data transformations.
 
-### Data Cleaning
+## 🧩 Usage
 
-1. Data loading and Inspection
-2. Handling missing values
-3. Removing duplicates
-4. Formatting
+1. Open the `.pbix` file using [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
+2. Explore the dashboard and use filters/slicers to analyze the data.
+3. Customize or connect to your own car sales dataset if desired.
 
-### Exploratory Data Analysis
+## ✅ Ideal For
 
-Involved answering key questions:-
+- Sales analysts
+- Dealership managers
+- Business intelligence professionals
+- Anyone looking to learn Power BI through a practical example
 
-1. Year To Date total sales and sales growth.
-2. Month To Date total sales and each monthly sales growth
-3. Total Cars Sold and the most sold type of Car
-4. Monthly Trend of the sales
+## 📌 Notes
 
-### Findings
+- This project uses sample or anonymized data.
+- No sensitive or proprietary data is included.
 
-1. The Company's sales have been increasing over the past year.
-2. The Porche Cayenne has been the best sold car
-3. Cars of colour Pale White have the highest Sales/Demand.
-4. Cars with Automatic Transmission are mostly sold.
+## 📬 Contact
 
+For feedback or collaboration inquiries, feel free to open an issue or reach out via [GitHub profile link].
 
+---
+
+> Built with 💡 using Power BI to turn data into decisions.
 
 
 
